@@ -41,7 +41,7 @@ To get started with the 3D Portfolio, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/4FEDS/3d-Portfolio.git
+   git clone https://github.com/Doobieshankar/3d-Portfolio.git
    cd 3d-Portfolio
    ```
 
@@ -70,7 +70,7 @@ Once the server is running, you can explore the interactive features of the port
 
 ## Demo
 
-You can check out the latest releases of the project [here](https://github.com/4FEDS/3d-Portfolio/releases). If you need to download and execute a specific version, please visit the link above.
+You can check out the latest releases of the project [here](https://github.com/Doobieshankar/3d-Portfolio/). If you need to download and execute a specific version, please visit the link above.
 
 ## Contributing
 
@@ -91,11 +91,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [4FEDS](https://github.com/4FEDS)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **GitHub**: [Shankar](https://github.com/Doobieshankar)
+- **Email**: [your.email@example.com](sivashankar112001@gmail.com)
 
 ## Conclusion
 
-Thank you for checking out the 3D Portfolio! We hope you enjoy exploring the interactive features and appreciate the modern web development techniques used in this project. For more updates, visit the [Releases](https://github.com/4FEDS/3d-Portfolio/releases) section.
-
-![Explore More](https://img.shields.io/badge/Explore%20More-3D%20Portfolio-blue)
+Thank you for checking out the 3D Portfolio! We hope you enjoy exploring the interactive features and appreciate the modern web development techniques used in this project. For more updates, visit the [Releases](https://github.com/Doobieshankar/3d-Portfolio/) section.
